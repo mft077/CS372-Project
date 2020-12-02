@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-/*Manages AnswerData, QuestionData and RounData*/
+/*Manages AnswerData, QuestionData and RounData
+Supplies RoundData to the GameController when that scene is reached*/
 public class DataController : MonoBehaviour
 {
     public RoundData[] allRoundData;
