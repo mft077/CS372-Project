@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//holds information about answers
 [System.Serializable]
 public class AnswerData
 {
