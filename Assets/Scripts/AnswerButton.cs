@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
+/*answerText stores reference button text to display the string for the answer
+answerData display answerText*/
 public class AnswerButton : MonoBehaviour
 {
     public Text answerText;
